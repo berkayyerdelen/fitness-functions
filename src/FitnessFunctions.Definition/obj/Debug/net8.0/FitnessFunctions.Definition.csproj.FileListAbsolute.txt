@@ -1,0 +1,17 @@
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\bin\Debug\net8.0\FitnessFunctions.Definition.deps.json
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\bin\Debug\net8.0\FitnessFunctions.Definition.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\bin\Debug\net8.0\FitnessFunctions.Definition.pdb
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\bin\Debug\net8.0\FitnessFunctions.SharedKernel.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\bin\Debug\net8.0\FitnessFunctions.SharedKernel.pdb
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\FitnessFunctions.Definition.csproj.AssemblyReference.cache
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\FitnessFunctions.Definition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\FitnessFunctions.Definition.AssemblyInfoInputs.cache
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\FitnessFunctions.Definition.AssemblyInfo.cs
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\FitnessFunctions.Definition.csproj.CoreCompileInputs.cache
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\FitnessFunctions.Definition.csproj.CopyComplete
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\FitnessFunctions.Definition.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\refint\FitnessFunctions.Definition.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\FitnessFunctions.Definition.pdb
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\obj\Debug\net8.0\ref\FitnessFunctions.Definition.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\bin\Debug\net8.0\FitnessFunctions.Domain.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Definition\bin\Debug\net8.0\FitnessFunctions.Domain.pdb

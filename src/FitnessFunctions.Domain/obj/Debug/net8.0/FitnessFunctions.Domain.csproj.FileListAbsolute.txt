@@ -1,0 +1,11 @@
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\bin\Debug\net8.0\FitnessFunctions.Domain.deps.json
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\bin\Debug\net8.0\FitnessFunctions.Domain.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\bin\Debug\net8.0\FitnessFunctions.Domain.pdb
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\obj\Debug\net8.0\FitnessFunctions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\obj\Debug\net8.0\FitnessFunctions.Domain.AssemblyInfoInputs.cache
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\obj\Debug\net8.0\FitnessFunctions.Domain.AssemblyInfo.cs
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\obj\Debug\net8.0\FitnessFunctions.Domain.csproj.CoreCompileInputs.cache
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\obj\Debug\net8.0\FitnessFunctions.Domain.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\obj\Debug\net8.0\refint\FitnessFunctions.Domain.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\obj\Debug\net8.0\FitnessFunctions.Domain.pdb
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.Domain\obj\Debug\net8.0\ref\FitnessFunctions.Domain.dll

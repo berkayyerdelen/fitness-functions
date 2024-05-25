@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0A1D1D05-74F3-4242-98B2-8DA51055C5C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E4334BBA-9692-454D-9D7C-CCE15F9EC549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessFunctions.Definition", "src\FitnessFunctions.Definition\FitnessFunctions.Definition.csproj", "{2F547444-E5C8-4C1B-8B9B-231B66ADD425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessFunctions.SharedKernel", "src\FitnessFunctions.SharedKernel\FitnessFunctions.SharedKernel.csproj", "{9A97D854-9C65-4396-B25D-5FD81E15014C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessFunctions.Definition.Tests", "tests\FitnessFunctions.Definition.Tests\FitnessFunctions.Definition.Tests.csproj", "{37653C0C-5415-4E63-9B16-297F60293DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessFunctions.Domain", "src\FitnessFunctions.Domain\FitnessFunctions.Domain.csproj", "{FA5F978E-53EC-4CAD-A6F9-097F5728A9CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F547444-E5C8-4C1B-8B9B-231B66ADD425} = {0A1D1D05-74F3-4242-98B2-8DA51055C5C4}
+		{9A97D854-9C65-4396-B25D-5FD81E15014C} = {0A1D1D05-74F3-4242-98B2-8DA51055C5C4}
+		{37653C0C-5415-4E63-9B16-297F60293DAA} = {E4334BBA-9692-454D-9D7C-CCE15F9EC549}
+		{FA5F978E-53EC-4CAD-A6F9-097F5728A9CB} = {0A1D1D05-74F3-4242-98B2-8DA51055C5C4}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F547444-E5C8-4C1B-8B9B-231B66ADD425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F547444-E5C8-4C1B-8B9B-231B66ADD425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F547444-E5C8-4C1B-8B9B-231B66ADD425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F547444-E5C8-4C1B-8B9B-231B66ADD425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A97D854-9C65-4396-B25D-5FD81E15014C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A97D854-9C65-4396-B25D-5FD81E15014C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A97D854-9C65-4396-B25D-5FD81E15014C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A97D854-9C65-4396-B25D-5FD81E15014C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37653C0C-5415-4E63-9B16-297F60293DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37653C0C-5415-4E63-9B16-297F60293DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37653C0C-5415-4E63-9B16-297F60293DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37653C0C-5415-4E63-9B16-297F60293DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5F978E-53EC-4CAD-A6F9-097F5728A9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5F978E-53EC-4CAD-A6F9-097F5728A9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5F978E-53EC-4CAD-A6F9-097F5728A9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5F978E-53EC-4CAD-A6F9-097F5728A9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

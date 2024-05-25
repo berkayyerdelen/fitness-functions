@@ -1,0 +1,11 @@
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\bin\Debug\net8.0\FitnessFunctions.SharedKernel.deps.json
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\bin\Debug\net8.0\FitnessFunctions.SharedKernel.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\bin\Debug\net8.0\FitnessFunctions.SharedKernel.pdb
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\obj\Debug\net8.0\FitnessFunctions.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\obj\Debug\net8.0\FitnessFunctions.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\obj\Debug\net8.0\FitnessFunctions.SharedKernel.AssemblyInfo.cs
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\obj\Debug\net8.0\FitnessFunctions.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\obj\Debug\net8.0\FitnessFunctions.SharedKernel.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\obj\Debug\net8.0\refint\FitnessFunctions.SharedKernel.dll
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\obj\Debug\net8.0\FitnessFunctions.SharedKernel.pdb
+C:\Users\berka\RiderProjects\FitnessFunctions\src\FitnessFunctions.SharedKernel\obj\Debug\net8.0\ref\FitnessFunctions.SharedKernel.dll
